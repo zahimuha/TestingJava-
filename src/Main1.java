@@ -18,7 +18,7 @@ class Main1
 		// Reference is passed and a copy of reference
 		// is created in change()
 		change(t);
-
+//
 		// Old value of t.x is printed
 		System.out.println(t.x);
 	}
